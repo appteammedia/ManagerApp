@@ -1,4 +1,5 @@
- [
+{
+  "customers": [
     {
       "pkm": "com.dalcomsoft.ssb.baddab",
       "id_app": "ca-app-pub-8634259134319673~2585144474",
@@ -18,5 +19,86 @@
       "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
       "game": true,
       "hide": true
+    },
+    {
+      "pkm": "com.free.fire.stickman.hero",
+      "id_app": "ca-app-pub-8634259134319673~2585144474",
+      "id_ads": "ca-app-pub-8634259134319673/8830881795",
+      "time_set_up": "15",
+      "time_to_show": "50000",
+      "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
+      "game": true,
+      "hide": true
+    },
+    {
+      "pkm": "com.music.bts.kpop",
+      "id_app": "ca-app-pub-8634259134319673~2585144474",
+      "id_ads": "ca-app-pub-8634259134319673/8830881795",
+      "time_set_up": "10",
+      "time_to_show": "50000",
+      "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
+      "game": true,
+      "hide": true
+    },
+    {
+      "pkm": "com.animoji.face.iphonex",
+      "id_app": "ca-app-pub-8634259134319673~2585144474",
+      "id_ads": "ca-app-pub-8634259134319673/8830881795",
+      "time_set_up": "10",
+      "time_to_show": "50000",
+      "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
+      "game": true,
+      "hide": true
+    },
+    {
+      "pkm": "com.introtemplates.intromusic.intromaker",
+      "id_app": "ca-app-pub-8634259134319673~2585144474",
+      "id_ads": "ca-app-pub-3360774212564089/7976205284",
+      "time_set_up": "10",
+      "time_to_show": "50000",
+      "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
+      "game": true,
+      "hide": true
+    },
+    {
+      "pkm": "com.RiiApp.YouMakeupPhotoEffect",
+      "id_app": "ca-app-pub-8634259134319673~2585144474",
+      "id_ads": "ca-app-pub-8634259134319673/8830881795",
+      "time_set_up": "10",
+      "time_to_show": "50000",
+      "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
+      "game": true,
+      "hide": true
+    },
+    {
+      "pkm": "com.videostar.videomaster.vizstar",
+      "id_app": "ca-app-pub-8634259134319673~2585144474",
+      "id_ads": "ca-app-pub-8634259134319673/8830881795",
+      "time_set_up": "10",
+      "time_to_show": "50000",
+      "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
+      "game": true,
+      "hide": true
+    },
+    {
+      "pkm": "com.entertaiment.fort.dances.emotes.nites",
+      "id_app": "ca-app-pub-8634259134319673~2585144474",
+      "id_ads": "ca-app-pub-3360774212564089/7976205284",
+      "time_set_up": "50",
+      "time_to_show": "50000",
+      "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
+      "game": true,
+      "hide": true
+    },
+    {
+      "pkm": "com.testtinggame.dragonballultimatequiz",
+      "id_app": "ca-app-pub-8634259134319673~2585144474",
+      "id_ads": "ca-app-pub-3360774212564089/4898190775",
+      "time_set_up": "5",
+      "time_to_show": "50000",
+      "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
+      "game": true,
+      "hide": true
     }
- ]
+  ]
+}
