@@ -1,0 +1,22 @@
+ [
+    {
+      "pkm": "com.dalcomsoft.ssb.baddab",
+      "id_app": "ca-app-pub-8634259134319673~2585144474",
+      "id_ads": "ca-app-pub-8634259134319673/8830881795",
+      "time_set_up": "10",
+      "time_to_show": "50000",
+      "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
+      "game": true,
+      "hide": true
+    },
+    {
+      "pkm": "com.iosclip.moviemaker.movieapple.videostar.imovie",
+      "id_app": "ca-app-pub-8634259134319673~2585144474",
+      "id_ads": "ca-app-pub-8634259134319673/8830881795",
+      "time_set_up": "25",
+      "time_to_show": "50000",
+      "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
+      "game": true,
+      "hide": true
+    }
+ ]
