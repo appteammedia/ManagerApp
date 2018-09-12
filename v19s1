@@ -31,6 +31,16 @@
       "over": 6
     },
      {
+      "pkm": "com.bts.piano.tiles.kpop",
+      "id_ads": "ca-app-pub-8634259134319673/8830881795",
+      "time_set_up": "10",
+      "time_to_show": "20000",
+      "flurry": "N6FVWSQDWHTJXH33DG2T",
+      "game": true,
+      "hide": true,
+      "over": 6
+    },
+     {
       "pkm": "com.example.makingmoney.alarmsecond2",
       "id_ads": "ca-app-pub-8634259134319673/8830881795",
       "time_set_up": "10",
