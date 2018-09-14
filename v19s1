@@ -20,6 +20,16 @@
       "hide": true,
       "over": 0
     },
+     {
+      "pkm": "com.launcher.ilauncher.phonex",
+      "id_ads": "ca-app-pub-8634259134319673/8830881795",
+      "time_set_up": "10",
+      "time_to_show": "20000",
+      "flurry": "X28Z4T2QZHBJ8GNBMPV5",
+      "game": true,
+      "hide": true,
+      "over": 0
+    },
     {
       "pkm": "com.RobotoxGames.TimeRacing.GTA",
       "id_ads": "ca-app-pub-8634259134319673/8830881795",
