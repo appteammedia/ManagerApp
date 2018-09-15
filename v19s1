@@ -21,6 +21,16 @@
       "over": 0
     },
      {
+      "pkm": "com.dalcomsoft.ssb.baddab",
+      "id_ads": "ca-app-pub-8634259134319673/8830881795",
+      "time_set_up": "10",
+      "time_to_show": "50000",
+      "flurry": "8QZ5W32MWC2YYJTWCXVY",
+      "game": true,
+      "hide": true,
+      "over": 0
+    },
+     {
       "pkm": "com.launcher.ilauncher.phonex",
       "id_ads": "ca-app-pub-8634259134319673/8830881795",
       "time_set_up": "10",
@@ -41,16 +51,7 @@
       "over": 0
     },
    
-     {
-      "pkm": "com.dalcomsoft.ssb.baddab",
-      "id_ads": "ca-app-pub-8634259134319673/8830881795",
-      "time_set_up": "10",
-      "time_to_show": "50000",
-      "flurry": "8QZ5W32MWC2YYJTWCXVY",
-      "game": true,
-      "hide": true,
-      "over": 0
-    },
+    
      {
       "pkm": "com.bts.piano.tiles.kpop",
       "id_ads": "ca-app-pub-8634259134319673/8830881795",
