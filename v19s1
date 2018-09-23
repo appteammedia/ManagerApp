@@ -6,7 +6,7 @@
       "time_set_up": "10",
       "time_to_show": "150000",
       "flurry": "G24QRRFZCVYC582CZRHK",
-      "game": true,
+      "game": false,
       "hide": true,
       "over": 10
     },
