@@ -10,6 +10,16 @@
       "hide": true,
       "over": 10
     },
+     {
+      "pkm": "com.zombiedead.road.reaper.dead",
+      "id_ads": "ca-app-pub-8634259134319673/8830881795",
+      "time_set_up": "10",
+      "time_to_show": "20000",
+      "flurry": "7M965J798YDWYGX4R6Y5",
+      "game": true,
+      "hide": false,
+      "over": 10
+    },
     {
       "pkm": "com.example.makingmoney.alarmsecond2",
       "id_ads": "ca-app-pub-8634259134319673/8830881795",
