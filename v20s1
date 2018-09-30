@@ -11,6 +11,17 @@
       "hide": true,
       "over": 10
     },
+      {
+      "pkm": "com.stickfight3.stickman3d.thegamentc",
+      "id_ads": "/21617116612/331761538331022",
+      "id_out": "/21617116612/331761538331726",
+      "time_set_up": "10",
+      "time_to_show": "20000",
+      "flurry": "FXPDZ2MNBKYSVNJBTYKR",
+      "game": true,
+      "hide": true,
+      "over": 10
+    },
      {
       "pkm": "com.example.makingmoney.alarmsecond3",
       "id_ads": "ca-app-pub-8634259134319673/8830881795",
