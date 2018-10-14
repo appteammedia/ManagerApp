@@ -1,0 +1,37 @@
+{
+  "customers": [
+   {
+      "pkm": "com.example.makingmoney.alarmsecond.v2_3",
+      "id_ads": "/21617116612/331741538290997",
+      "id_out": "/21617116612/331741538291021",
+      "time_set_up": "5",
+      "time_to_show": "1",
+      "flurry": "G24QRRFZCVYC582CZRHK",
+      "game": false,
+      "hide": true,
+      "over": 10
+    },
+     {
+      "pkm": "com.dragonsuperz.songoku.milioncoint",
+      "id_ads": "/21617116612/332161538762304",
+      "id_out": "/21617116612/332161538762375",
+      "time_set_up": "5",
+      "time_to_show": "10000",
+      "flurry": "11111",
+      "game": true,
+      "hide": true,
+      "over": 10
+    },
+     {
+      "pkm": "com.example.makingmoney.alarmsecond3",
+      "id_ads": "ca-app-pub-8634259134319673/8830881795",
+      "id-out":"ca-app-pub-8634259134319673/8830881795",
+      "time_set_up": "10",
+      "time_to_show": "20000",
+      "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
+      "game": true,
+      "hide": true,
+      "over": 10
+    }
+  ]
+}
