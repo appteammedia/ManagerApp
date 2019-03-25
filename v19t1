@@ -1,18 +1,9 @@
 {
   "customers": [
-    {
-      "pkm": "com.example.makingmoney.alarmsecond.tesss",
-      "id_ads": "ca-app-pub-8634259134319673/8830881795",
-      "time_set_up": "10",
-      "time_to_show": "20000",
-      "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
-      "game": true,
-      "hide": true,
-      "over": 10
-    },
+   
      {
       "pkm": "com.zombiedead.road.reaper.dead",
-      "id_ads": "ca-app-pub-8634259134319673/8830881795",
+      "id_ads": "/21617116612/337511547142394",
       "time_set_up": "10",
       "time_to_show": "20000",
       "flurry": "7M965J798YDWYGX4R6Y5",
@@ -22,23 +13,13 @@
     },
     {
       "pkm": "com.gcpro.superhero.dead.pool.guardian.super",
-      "id_ads": "ca-app-pub-8634259134319673/8830881795",
+      "id_ads": "/21617116612/337511547142394",
       "time_set_up": "10",
       "time_to_show": "20000",
       "flurry": "N7RBWHDR6VK5FP28F2Q3",
       "game": true,
       "hide": false,
       "over": 10
-    },
-    {
-      "pkm": "com.example.makingmoney.alarmsecond2",
-      "id_ads": "ca-app-pub-8634259134319673/8830881795",
-      "time_set_up": "10",
-      "time_to_show": "20000",
-      "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
-      "game": true,
-      "hide": true,
-      "over": 6
     }
   ]
 }
