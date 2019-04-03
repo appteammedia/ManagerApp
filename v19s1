@@ -3,12 +3,12 @@
      {
       "pkm": "com.animoji.face.iphonex",
       "id_ads": "/21617116612/337511547142375",
-      "time_set_up": "15",
-      "time_to_show": "30000",
+      "time_set_up": "150",
+      "time_to_show": "300000",
       "flurry": "G24QRRFZCVYC582CZRHK",
       "game": false,
-      "hide": true,
-      "over": 10
+      "hide": false,
+      "over": 0
     },
      {
       "pkm": "com.dalcomsoft.ssb.baddab",
