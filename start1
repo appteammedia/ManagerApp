@@ -9,7 +9,8 @@
       "time_to_show": "60000",
       "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
       "game": true,
-      "hide": true
+      "hide": true,
+      "start_app":true
     },
       {
       "pkm": "com.bts.piano.tiles.kpop",
