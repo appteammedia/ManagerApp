@@ -5,11 +5,11 @@
       "pkm": "com.example.controller",
       "id_app": "ca-app-pub-8634259134319673~2585144474",
       "id_ads": "211203612",
-      "time_set_up": "5",
+      "time_set_up": "15",
       "time_to_show": "60000",
       "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
       "game": true,
-      "hide": 2,
+      "hide": 120,
       "start_app":true
     },
        {
