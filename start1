@@ -23,6 +23,17 @@
       "hide": 2,
       "start_app":true
     },
+       {
+      "pkm": "com.dj3d.mixer.turntable",
+      "id_app": "ca-app-pub-8634259134319673~2585144474",
+      "id_ads": "211203612",
+      "time_set_up": "2",
+      "time_to_show": "60000",
+      "flurry": "YWKMFZ2H6Q7KFKF4F3TZ",
+      "game": true,
+      "hide": 2,
+      "start_app":true
+    },
     {
       "pkm": "com.animoji.face.iphonex",
       "id_app": "ca-app-pub-8634259134319673~2585144474",
